@@ -1,6 +1,6 @@
 {
-  "name": "parcel-project-template",
-  "version": "2.0.0",
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
   "description": "",
   "homepage": "https://nitskayl.github.io/goit-js-hw-09",
   "scripts": {
@@ -18,10 +18,12 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.6"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
+    "flatpickr": "^4.6.13",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
